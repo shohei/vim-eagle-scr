@@ -3,6 +3,8 @@ vim-eagle-cam
 
 Vim syntax highlight plugin for EAGLE CAM processor file (.cam)
 
+http://www.cadsoftusa.com/
+
 Installation
 ============
 
